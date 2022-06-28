@@ -36,3 +36,38 @@
     * connection management
 * principles of congestion control
 * TCP congestion control
+
+## 컴퓨터 네트워크 chapter 4
+*[link](https://github.com/sunho1999/Computer_network/blob/main/%EC%BB%B4%EB%84%A4_%EA%B8%B0%EB%A7%90_%EC%A0%95%EB%A6%AC_Chapter_4%20(1).pdf)
+* Overview of Network layer
+    * data plane
+    * control plane
+* What’s inside a router
+* IP: Internet Protocol
+    * datagram format
+    * fragmentation
+    * IPv4 addressing
+    * network address translation
+    * IPv6
+
+## 컴퓨터 네트워크 chapter 5
+*[link](https://github.com/sunho1999/Computer_network/blob/main/%EC%BB%B4%EB%84%A4_%EA%B8%B0%EB%A7%90_%EC%A0%95%EB%A6%AC_Chapter_5%20(1).pdf)
+* introduction
+* routing protocols
+    * link state
+    * distance vector
+* intra-AS routing in the Internet: OSPF
+* routing among the ISPs: BGP
+* ICMP: The Internet Control Message Protocol
+* Network management and SNMP
+
+## 컴퓨터 네트워크 chapter 6
+*[link](https://github.com/sunho1999/Computer_network/blob/main/%EC%BB%B4%EB%84%A4_%EA%B8%B0%EB%A7%90__%EC%A0%95%EB%A6%AC_Chapter_6%20(1).pdf)
+* introduction, services
+* error detection, correction
+* multiple access protocols
+* LANs
+    * addressing, ARP • Ethernet
+    * switches
+    * VLANS
+* data center networking
